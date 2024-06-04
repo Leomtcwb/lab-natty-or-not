@@ -28,9 +28,9 @@
 
 **Não perca essa oportunidade única!** Reserve sua viagem hoje mesmo e prepare-se para viver a aventura mais extraordinária da sua vida!
 
-**[Nome da Empresa]:** Sua porta de entrada para o futuro da exploração espacial.
+**[ViagensMarte.tur]:** Sua porta de entrada para o futuro da exploração espacial.
 
-**[Website da Empresa]** | **[Telefone da Empresa]**
+**[ViagensMarte.tur]** | **[+55 55 55555-1234]**
 
 **#Marte #ExploraçãoEspacial #TurismoEspacial #Aventura #ViagemDosSonhos**
 
