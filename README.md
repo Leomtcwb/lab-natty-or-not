@@ -4,6 +4,8 @@
 
 **Cansado da monotonia da Terra?** Deseja vivenciar a emoção de ser um pioneiro em um novo mundo? Então prepare-se para a viagem dos seus sonhos: **uma expedição inesquecível a Marte!**
 
+![](https://github.com/Leomtcwb/lab-natty-or-not/blob/main/digital-art-moon-wallpaper.jpg)
+
 **Com a ViagenMarte.tur, você pode:**
 
 * **Pisar em solo marciano:** Seja um dos primeiros a deixar suas marcas na superfície avermelhada de Marte.
