@@ -52,47 +52,36 @@
 
 **#Marte #ExploraçãoEspacial #TurismoEspacial #Aventura #ViagemDosSonhos**
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Extremamente Aesthetic
+
+### Explore Marte!
 
 ## 📒 Descrição
-Marterial promocional para a empresa ViagensMarte.tur.
-A ideia é motivar o turismo em Marte.
+
+### Marterial promocional para a empresa ViagensMarte.tur.
+### A ideia é motivar o turismo em Marte.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
-https://gemini.google.com texto e imagens
-https://br.freepik.com/fotos-gratis/ Imagens geradas por IA
+
+### https://gemini.google.com texto e imagens
+### https://br.freepik.com/fotos-gratis/ Imagens geradas por IA
 
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
-Foi solicitado ao site gemini.google.com criar um texto publicitário para completar um folder sobre turismo em marte
-Foi solicitado ao site gemini.google.com gerar imagens com turistas em Marte.
-Outras imagens foram obtidas em freepik.com geradas por IA
+
+### Foi solicitado ao site gemini.google.com criar um texto publicitário para completar um folder sobre turismo em marte
+### Foi solicitado ao site gemini.google.com gerar imagens com turistas em Marte.
+### Outras imagens foram obtidas em freepik.com geradas por IA
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-O resultado pode ser visto no início do arquivo README.md
+
+### O resultado pode ser visto no início do arquivo README.md
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
