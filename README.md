@@ -25,6 +25,9 @@
 
 * **Viver uma experiência única:** Experimente a sensação de gravidade zero, faça caminhadas espaciais e observe a Terra do espaço.
 
+![](https://github.com/Leomtcwb/lab-natty-or-not/blob/main/Gemini_Generated_Image_n6g9zn6g9zn6g9zn.jpeg)
+
+
 **Nosso pacote completo inclui:**
 
 * **Transporte espacial de ida e volta:** Voe em naves espaciais de última geração com todo o conforto e segurança.
