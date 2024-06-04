@@ -38,6 +38,8 @@
 * **Atividades emocionantes:** Participe de atividades como caminhadas espaciais, escaladas em vulcões e safáris marcianos.
 * **Equipamentos de última geração:** Utilize trajes espaciais, veículos especiais e outros equipamentos para garantir sua segurança e conforto durante a viagem.
 
+![](https://github.com/Leomtcwb/lab-natty-or-not/blob/main/Gemini_Generated_Image_rk4pcork4pcork4p.jpeg)
+
 ![](https://github.com/Leomtcwb/lab-natty-or-not/blob/main/Gemini_Generated_Image_rk4pcprk4pcprk4p.jpeg)
 
 **Tudo isso com segurança, conforto e atendimento personalizado.**
