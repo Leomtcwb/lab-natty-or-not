@@ -30,11 +30,10 @@
 
 **Nosso pacote completo inclui:**
 
-* **Transporte espacial de ida e volta:** Voe em naves espaciais de última geração com todo o conforto e segurança.
-* **Hospedagem em hotel luxuoso:** Desfrute de acomodações sofisticadas e serviços exclusivos em nosso hotel marciano.
-
 ![](https://github.com/Leomtcwb/lab-natty-or-not/blob/main/Gemini_Generated_Image_n6g9xn6g9xn6g9xn.jpeg)
 
+* **Transporte espacial de ida e volta:** Voe em naves espaciais de última geração com todo o conforto e segurança.
+* **Hospedagem em hotel luxuoso:** Desfrute de acomodações sofisticadas e serviços exclusivos em nosso hotel marciano.
 * **Passeios guiados por especialistas:** Explore os principais pontos turísticos de Marte com guias experientes e apaixonados.
 * **Atividades emocionantes:** Participe de atividades como caminhadas espaciais, escaladas em vulcões e safáris marcianos.
 * **Equipamentos de última geração:** Utilize trajes espaciais, veículos especiais e outros equipamentos para garantir sua segurança e conforto durante a viagem.
