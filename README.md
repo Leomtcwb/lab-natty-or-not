@@ -2,6 +2,9 @@
 
 # ***Explore Marte!***
 
+![](https://github.com/Leomtcwb/lab-natty-or-not/blob/main/journey-planet-mars-concept.jpg)
+
+
 **Cansado da monotonia da Terra?** Deseja vivenciar a emoção de ser um pioneiro em um novo mundo? Então prepare-se para a viagem dos seus sonhos: **uma expedição inesquecível a Marte!**
 
 ![](https://github.com/Leomtcwb/lab-natty-or-not/blob/main/digital-art-moon-wallpaper.jpg)
