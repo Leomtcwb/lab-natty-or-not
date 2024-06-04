@@ -14,6 +14,9 @@
 
 * **Explorar paisagens incríveis:** Contemple vulcões colossais, crateras gigantescas e dunas de areia cósmica.
 * **Desvendar os mistérios do passado:** Descubra os segredos da história marciana e busque por sinais de vida extraterrestre.
+
+![](https://github.com/Leomtcwb/lab-natty-or-not/blob/main/Gemini_Generated_Image_n6g9yn6g9yn6g9yn.jpeg)
+
 * **Viver uma experiência única:** Experimente a sensação de gravidade zero, faça caminhadas espaciais e observe a Terra do espaço.
 
 **Nosso pacote completo inclui:**
