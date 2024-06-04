@@ -5,6 +5,9 @@
 **Com a [Nome da Empresa], você pode:**
 
 * **Pisar em solo marciano:** Seja um dos primeiros a deixar suas marcas na superfície avermelhada de Marte.
+
+![](https://github.com/Leomtcwb/lab-natty-or-not/blob/main/Gemini_Generated_Image_n6g9wn6g9wn6g9wn.jpeg)
+
 * **Explorar paisagens incríveis:** Contemple vulcões colossais, crateras gigantescas e dunas de areia cósmica.
 * **Desvendar os mistérios do passado:** Descubra os segredos da história marciana e busque por sinais de vida extraterrestre.
 * **Viver uma experiência única:** Experimente a sensação de gravidade zero, faça caminhadas espaciais e observe a Terra do espaço.
