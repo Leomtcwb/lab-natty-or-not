@@ -6,7 +6,7 @@
 
 ![](https://github.com/Leomtcwb/lab-natty-or-not/blob/main/digital-art-moon-wallpaper.jpg)
 
-**Com a ViagenMarte.tur, você pode:**
+# Com a ***ViagensMarte.tur***, você pode!
 
 * **Pisar em solo marciano:** Seja um dos primeiros a deixar suas marcas na superfície avermelhada de Marte.
 
