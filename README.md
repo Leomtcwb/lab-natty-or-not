@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Prepare-se para a maior aventura da sua vida: Explore Marte!
 
 ## 🚀 Introdução
 
